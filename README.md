@@ -24,4 +24,10 @@
   This three concepts have different sub-sections 📑 for better analysis about the concept.
   A detailed course about the three concept is developed in this website 🌐.
 
+  📂File source:
+  The task5 code is the front page of the learning platform.
+  Task5 ai is the available course enhaced with this platform.
+  Data code shows the course about Data Analyst and Ui shows the course of UI/UX Design.
+  The output section of each code is also updated for reference.
+
   Access this link for reference: 🔗https://neocities.org/site_files/text_editor?filename=Viji%2FBasics%2Ftask5.html
