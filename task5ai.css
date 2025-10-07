@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    background-image: url("ai.gif");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    background-color: #896C6C;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 25px 16px;
+    text-decoration: none;
+}
+li a.active{
+    background-color: #F14A00;
+    color: black;
+}
+li a:hover:not(.active){
+    background-color: #E19898;
+    color: rgb(177, 12, 12);
+}
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+.row{
+    margin: 5px;
+}
+.row::after{
+    content: " ";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width:600px){
+    .column{
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+.card1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 16px;
+    text-align: center;
+    background-image: url("ai2.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+    border-width: 10px;
+    border-color: #DC143C;
+}
+.card2{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 16px;
+    text-align: center;
+    background-image: url("dl.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+    border-width: 10px;
+    border-color: #DC143C;
+}
+.card3{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 16px;
+    text-align: center;
+    background-image: url("nlp.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+    border-width: 10px;
+    border-color: #DC143C;
+}

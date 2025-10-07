@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("da.gif");
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+}
+ul li{
+    float: left;
+}
+ul li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px  16px;
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: brown;
+    color: black;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.one{
+    margin-top: 200px;
+    margin-left: 700px;
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    border-style: dotted;
+    border-radius: 1px 3px 25px 25px;
+    color: lightpink;
+    border-color: lightsalmon;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: none;
+    line-height: 50px;
+}

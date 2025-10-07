@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-image: url("ui1.webp");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 2px 2px 2px red;
+    line-height: 50px;
+    font-size: 40px;
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+}
+h2{
+    color: orangered;
+    text-align: center;
+    font-size: 25px;
+}
