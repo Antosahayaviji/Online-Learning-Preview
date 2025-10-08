@@ -30,4 +30,4 @@
   Data code shows the course about Data Analyst and Ui shows the course of UI/UX Design.
   The output section of each code is also updated for reference.
 
-  Access this link for reference: 🔗https://neocities.org/site_files/text_editor?filename=Viji%2FBasics%2Ftask5.html
+  Access this link for reference: 🔗 https://latha16.neocities.org/Viji/Basics/task5
